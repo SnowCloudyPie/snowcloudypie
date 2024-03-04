@@ -29,3 +29,5 @@
 [чек-листы](https://github.com/SnowCloudyPie/Tests/blob/main/README.md)
 
 [требования, тест-кейсы и багрепорты](https://github.com/SnowCloudyPie/Bugs/blob/main/README.md)
+
+[SQL запросы](https://github.com/SnowCloudyPie/sql-joining)
