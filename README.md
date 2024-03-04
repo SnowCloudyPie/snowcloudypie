@@ -46,3 +46,5 @@
 
 
 :mailbox: Как связаться со мной:[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:k.a.veretennikov@gmail.com) 
+
+[<img src="https://img.shields.io/badge/Telegram-7FFFD4?style=for-the-badge&logo=python&logoColor=black?style=for-the-badge&logo=&logoColor=black"/>](https://t.me/@SnowVeretennik)
