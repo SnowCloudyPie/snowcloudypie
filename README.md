@@ -41,8 +41,9 @@
 
 ***
 ### ✔️ Мое резюме:
+[https://github.com/SnowCloudyPie/Resume/blob/main/VeretennikovKirill.pdf](https://github.com/SnowCloudyPie/Resume/blob/main/VeretennikovKirill.pdf)
 
-
+***
 
 
 :mailbox: Как связаться со мной:
