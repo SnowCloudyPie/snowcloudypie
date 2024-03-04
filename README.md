@@ -25,3 +25,7 @@
 
 ✔️ Мои учебные проекты:
 ► Ручное тестирование:
+
+[чек-листы](https://github.com/SnowCloudyPie/Tests/blob/main/README.md)
+
+[требования, тест-кейсы и багрепорты](https://github.com/SnowCloudyPie/Bugs/blob/main/README.md)
