@@ -47,6 +47,10 @@
 
 ***
 
+[Сертификат](https://github.com/SnowCloudyPie/snowcloudypie/blob/main/VeretennikovKA.png)
+
+***
+
 
 :mailbox: Как связаться со мной:
 
