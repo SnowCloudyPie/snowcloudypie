@@ -34,6 +34,8 @@
 
 #### ► [Postman Запросы](https://github.com/SnowCloudyPie/Postman/blob/main/Postman_collection.json)
 
+#### ► [Тестовое задание для  ООО"Гексагон"](https://docs.google.com/document/d/1lwik3m5vjHAP-uYYGHn2f6wwmBGdsd4U/edit?usp=sharing&ouid=102840610796541950812&rtpof=true&sd=true)
+
 ***
 ### ✔️ Мои софт-скилы:
 * постоянно учусь (университет, дополнительное обучение по тем аспектам, которые требовались в работе)
