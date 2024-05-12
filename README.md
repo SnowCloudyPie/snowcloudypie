@@ -45,7 +45,7 @@
 
 ***
 ### ✔️ Мое резюме:
-[https://github.com/SnowCloudyPie/-/blob/main/KirillVeretennikov.pdf](https://github.com/SnowCloudyPie/-/blob/main/KirillVeretennikov.pdf)
+[https://github.com/SnowCloudyPie/-/blob/main/KirillVeretennikov.pdf](https://github.com/SnowCloudyPie/Resume/blob/main/Kirill_Veretennikov.pdf)
 
 ***
 
