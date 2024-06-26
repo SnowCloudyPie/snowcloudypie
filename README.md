@@ -23,7 +23,7 @@
 
 ***
 
-#### ✔️ Мои учебные проекты:
+#### ✔️ Мои проекты:
 #### ► Ручное тестирование:
 
 - [чек-листы](https://github.com/SnowCloudyPie/Tests/blob/main/README.md)
